@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Relaxify</string>
+    <string name="placeholder_search">Search</string>
+    <string name="title">Align Your Body</string>
+    <string name="title2">Favorite Collections</string>
+    <string name="img1">Stretch Up</string>
+    <string name="img2">Long Style</string>
+    <string name="img3">Knee Twist</string>
+    <string name="image2">Full Split</string>
+    <string name="backTwist">Back Twist</string>
+    <string name="spineAlign">Align Spine</string>
+    <string name="push1">Push Up</string>
+    <string name="squat">Stretchy Squat</string>
+    <string name="fullPushUp">Arm muscle builder</string>
+    <string name="motherAndChild">Family routine</string>
+    <string name="WeightLift">Muscle Strengthener</string>
+    <string name="legUp">One Leg Up</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>
